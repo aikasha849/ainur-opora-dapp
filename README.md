@@ -11,11 +11,11 @@ A platform for private therapeutic sessions with AI on the blockchain, offering 
 Cloning my GitHub repository locally.
 
 ```bash
-cd <my-preferred-location> 
-git clone <https://github.com/aikasha849/ainur-opora-dapp>
+PS <my-preferred-location> 
+git clone https://github.com/aikasha849/ainur-opora-dapp.git
 
 # Navigate to the root of my new project
-cd <ainur-opora-dapp>
+PS <my-preferred-location\ainur-opora-dapp>
 
 ### Installation
 
