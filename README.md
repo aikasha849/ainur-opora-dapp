@@ -5,8 +5,8 @@ A platform for private therapeutic sessions with AI on the blockchain, offering 
 
 ### Prerequisites
 
-- Node.js: Version v22.18.0
-- npm:     10.9.3
+- Node.js: Version v20.19.4
+- npm:     10.8.2
 
 Cloning my GitHub repository locally.
 
